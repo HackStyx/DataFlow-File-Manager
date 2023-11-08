@@ -48,7 +48,7 @@ will add soon..
 
 ## Contributing
 
-Contributions are welcome! Please follow the [contributing guidelines]().
+Contributions are welcome! Please follow the [contributing guidelines](https://github.com/HackStyx/DataFlow-File-Manager/blob/main/CONTRIBUTING.md).
 
 ## License
 
