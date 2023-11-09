@@ -21,7 +21,7 @@ DataFlow is a sleek and efficient file manager designed for simplicity. Navigate
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/HackStyx/DataFlow.git
+   git clone https://github.com/HackStyx/DataFlow-File-Manager.git
  2.  Install dependencies:
     
 
