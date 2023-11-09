@@ -49,7 +49,7 @@ DataFlow is a sleek and efficient file manager designed for simplicity. Navigate
 
 ## Contributing
 
-Contributions are welcome! Please follow the [contributing guidelines](https://github.com/HackStyx/DataFlow-File-Manager/blob/main/CONTRIBUTING.md).
+Contributions are welcome! Please follow the [Contributing Guidelines](https://github.com/HackStyx/DataFlow-File-Manager/blob/main/CONTRIBUTING.md).
 
 ## License
 
