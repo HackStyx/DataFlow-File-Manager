@@ -55,3 +55,24 @@ Contributions are welcome! Please follow the [contributing guidelines](https://g
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/HackStyx/DataFlow-File-Manager/blob/main/LICENSE) file for details.
 
+# To-Do List
+
+## Tasks
+
+- [ ] Implement drag-and-drop functionality for file operations.
+- [ ] Enhance error handling and user feedback for a more robust user experience.
+- [ ] Explore and integrate additional sorting options based on user feedback.
+- [ ] Conduct performance testing and optimize code for faster data flow.
+
+## In Progress
+
+- [ ] Develop a comprehensive testing suite to ensure the reliability of the application.
+- [ ] Investigate and address reported bugs from user testing and community feedback.
+
+## Completed
+
+- [x] Implement basic file navigation functionality.
+- [x] Integrate dark theme for reduced eye strain during extended usage.
+- [x] Set up the initial project structure and dependencies.
+
+
