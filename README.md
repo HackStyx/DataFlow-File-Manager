@@ -43,7 +43,8 @@ DataFlow is a sleek and efficient file manager designed for simplicity. Navigate
 4.  Experience efficient data flow with a focus on simplicity.
 
 ## Screenshots
-will add soon..
+![image](https://github.com/HackStyx/DataFlow-File-Manager/assets/137396151/1cdb8030-c98f-4dc4-80f7-05d0900e6402)
+
 
 
 ## Contributing
