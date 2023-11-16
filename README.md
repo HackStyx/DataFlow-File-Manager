@@ -1,7 +1,7 @@
 
 # DataFlow File Manager
 
-DataFlow is a sleek and efficient file manager designed for simplicity. Navigate, organize, and manipulate your files seamlessly in a minimalistic interface. Experience swift data flow with a focus on speed and user-friendly interactions.
+DataFlow is a simple, sleek and efficient file manager designed for simplicity. Navigate, organize, and manipulate your files seamlessly in a minimalistic interface. Experience swift data flow with a focus on speed and user-friendly interactions.
 
 ## Features
 
